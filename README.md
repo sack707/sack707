@@ -40,13 +40,13 @@ I have a fascination for languages, so I am learning the Japanese language XD."
 <a href="https://twitter.com/ragged_filosofr">
   <img align="left" alt="ANJAN DIYORA | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/atul-gupta-975151221">
+<a href="https://www.linkedin.com/in/atul-gupta-34409b321?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwRPGq6DZSceHSZ2zCU17xw%3D%3D">
   <img align="left" alt="ANJAN's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/artricuno69">
   <img align="left" alt="ANJAN's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/hail_.luciifer._/">
+<a href="https://www.instagram.com/whyyy_atul/">
   <img align="left" alt="ANJAN's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerearth.com/@gatul5303">
